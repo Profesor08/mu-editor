@@ -1,0 +1,117 @@
+@import "~vuetify/dist/vuetify.min.css";
+@import "~material-design-icons/iconfont/material-icons.css";
+@import "~@mdi/font/css/materialdesignicons.min.css";
+@import "~typeface-roboto/index.css";
+@import "~vuejs-noty/dist/vuejs-noty.css";
+
+@import "./mixins/scrollbar.scss";
+
+html,
+body,
+#app {
+  min-height: 100%;
+}
+
+html {
+  overflow-y: auto;
+}
+
+body,
+body * {
+  @include scrollbar;
+}
+
+.application {
+  display: flex;
+  flex-direction: column;
+
+  .application--wrap {
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 auto;
+  }
+}
+
+.noty_layout#noty_layout__topRight {
+  transform: translateY(50px) translateZ(0) scale(1, 1);
+}
+
+.v-text-field__details {
+  flex: 1 0 14px;
+}
+
+.buttons-group {
+  &.buttons-group-small {
+    margin: 0 -8px;
+  }
+
+  .v-btn {
+    min-width: 0;
+  }
+}
+
+.main {
+  flex: 1 0 auto;
+
+  .v-footer {
+    // margin-top: auto;
+    // position: absolute;
+    // bottom: 0;
+    // width: 100%;
+  }
+}
+
+.v-menu__content.theme--dark {
+  background: #424242;
+}
+
+.dense-select.v-select.v-text-field {
+  $size: 24px;
+
+  margin: 0;
+  padding: 0;
+  font-size: 11px;
+
+  &:not(:last-child) {
+    margin-right: 16px;
+  }
+
+  input {
+    height: $size;
+  }
+
+  .v-input__slot {
+    margin: 0;
+  }
+
+  .v-text-field__details {
+    display: none;
+  }
+
+  .v-select__selection--comma {
+    margin: 0;
+    color: hsla(0, 0%, 100%, 0.7);
+  }
+
+  .v-input__append-inner {
+    margin: 0;
+  }
+
+  .v-input__icon {
+    height: $size;
+    min-width: $size;
+    width: $size;
+  }
+
+  .v-select__selections {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .v-select__selection {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}

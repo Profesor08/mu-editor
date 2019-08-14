@@ -1,0 +1,174 @@
+{
+    "7":
+    {
+        "5": ["Stamina", "Stamina"],
+        "6": ["Stamina", "Stamina"],
+        "1": ["Stamina", "Stamina"],
+        "2": ["Stamina"],
+        "7": ["Stamina"],
+        "3": ["Stamina", "Stamina"],
+        "10": ["Stamina"],
+        "11": ["Stamina"],
+        "12": ["Stamina"],
+        "14":
+        {
+            "1": "Stamina"
+        },
+        "26": ["Stamina", "Stamina"],
+        "40": ["Stamina", "Stamina"],
+        "0":
+        {
+            "1": "Stamina"
+        },
+        "8":
+        {
+            "1": "Stamina"
+        }
+    },
+    "8":
+    {
+        "5": ["Stamina"],
+        "0": ["Stamina"],
+        "6": ["Stamina", "Stamina"],
+        "8": ["Stamina"],
+        "9": ["Stamina"],
+        "2": ["Stamina"],
+        "4": ["Stamina"],
+        "7": ["Stamina"],
+        "3": ["Stamina", "Stamina"],
+        "11": ["Stamina"],
+        "12": ["Stamina"],
+        "13": ["Stamina"],
+        "14": ["Stamina", "Stamina"],
+        "15": ["Stamina", "Stamina"],
+        "1":
+        {
+            "1": "Stamina"
+        },
+        "26": ["Stamina", "Stamina"],
+        "40":
+        {
+            "1": "Stamina"
+        }
+    },
+    "9":
+    {
+        "5": ["Stamina", "Stamina"],
+        "0": ["Stamina", "Stamina"],
+        "6": ["Stamina", "Stamina"],
+        "8": ["Stamina", "Stamina"],
+        "2": ["Stamina"],
+        "4": ["Stamina"],
+        "7": ["Stamina"],
+        "10": ["Stamina"],
+        "11": ["Stamina"],
+        "12": ["Stamina"],
+        "13": ["Stamina"],
+        "15": ["Stamina", "Stamina"],
+        "1":
+        {
+            "1": "Stamina"
+        },
+        "3":
+        {
+            "1": "Stamina"
+        },
+        "14":
+        {
+            "1": "Stamina"
+        },
+        "26": ["Stamina", "Stamina"],
+        "40": ["Stamina"]
+    },
+    "10":
+    {
+        "5": ["Stamina", "Stamina"],
+        "7": ["Stamina"],
+        "9": ["Stamina"],
+        "1": ["Stamina"],
+        "2": ["Stamina"],
+        "3": ["Stamina"],
+        "10": ["Stamina"],
+        "11": ["Stamina"],
+        "12": ["Stamina"],
+        "13": ["Stamina"],
+        "14": ["Stamina"],
+        "15":
+        {
+            "1": "Stamina"
+        },
+        "40": ["Stamina", "Stamina"],
+        "0":
+        {
+            "1": "Stamina"
+        },
+        "6":
+        {
+            "1": "Stamina"
+        }
+    },
+    "11":
+    {
+        "5": ["Stamina"],
+        "0": ["Stamina"],
+        "7": ["Stamina"],
+        "9": ["Stamina"],
+        "1": ["Stamina"],
+        "4": ["Stamina"],
+        "10": ["Stamina"],
+        "12": ["Stamina"],
+        "14": ["Stamina", "Stamina"],
+        "15": ["Stamina"],
+        "3":
+        {
+            "1": "Stamina"
+        },
+        "40":
+        {
+            "1": "Stamina"
+        },
+        "6":
+        {
+            "1": "Stamina"
+        }
+    },
+    "2":
+    {
+        "1": ["Strength"]
+    },
+    "13":
+    {
+        "8": ["Agility"],
+        "12": ["Energy"],
+        "13": ["Strength"],
+        "9": ["Stamina"],
+        "23": ["Agility"],
+        "24": ["Energy"],
+        "25": ["Energy", "Strength"],
+        "21": ["Energy", "Energy"],
+        "22": ["Strength", "Strength"],
+        "27": ["Stamina"]
+    },
+    "6":
+    {
+        "9": ["Stamina"],
+        "6": ["Stamina"],
+        "0":
+        {
+            "1": "Stamina"
+        }
+    },
+    "0":
+    {
+        "14": ["Strength"],
+        "2": ["Strength"]
+    },
+    "5": [
+        ["Energy"]
+    ],
+    "4":
+    {
+        "9": ["Agility"],
+        "5": ["Agility"]
+    }
+}
